@@ -18,11 +18,11 @@ The repository includes a demo notebook that showcases how to use the trained mo
 ## Installation
 Download or Clone the repository and navigate to the project directory. Clone this repository to your local machine using the following command:
 
-git clone https://github.com/aliduabubakari/churn-prediction-with-gradio 
+git clone - 
 
 Alternatively, you can visit:
 
-https://huggingface.co/spaces/Abubakari/churn_prediction_App 
+- 
 
 
 ## Install the dependencies
@@ -73,5 +73,5 @@ Lastly submit the values and click on the predict button to the prediction.
 
 
 ## Author
-Alidu Abubakari
+Alberta Cofie
 Data Analyst
