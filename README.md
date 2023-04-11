@@ -4,7 +4,7 @@ This repository contains code and resources for building a churn prediction mode
 ## Summary
 | Code      | Name        | Published Article |  Deployed App |
 |-----------|-------------|:-------------:|------:|
-| LP4 | Churn Prediction with Gradio |  [https://medium.com/@alidu143/building-a-customer-churn-prediction-web-app-with-gradio-a-step-by-step-guide-5d7d77ede323](/) | [https://huggingface.co/spaces/Abubakari/churn_prediction_App](/) |
+| LP4 | Churn Prediction with Gradio |  [-](/) | [-](/) |
 
 ## Project Description
 Churn prediction is a critical task for businesses that want to retain their customers and optimize revenue. This repository contains code and resources for building a churn prediction model using machine learning techniques, and deploying it with Gradio for a user-friendly interface.
