@@ -4,7 +4,7 @@ This repository contains code and resources for building a churn prediction mode
 ## Summary
 | Code      | Name        | Published Article |  Deployed App |
 |-----------|-------------|:-------------:|------:|
-| LP4 | Churn Prediction with Gradio |  [https://medium.com/@albiecofie2000/a-guide-on-building-a-customer-churn-prediction-web-app-with-gradio-89c1e5a2ec01](/) | [AlbieCofie/predict-customer-churn](/) |
+| LP4 | Churn Prediction with Gradio |  [https://medium.com/@albiecofie2000/a-guide-on-building-a-customer-churn-prediction-web-app-with-gradio-89c1e5a2ec01](/) | [https://huggingface.co/AlbieCofie/predict-customer-churn](/) |
 
 ## Project Description
 Churn prediction is a critical task for businesses that want to retain their customers and optimize revenue. This repository contains code and resources for building a churn prediction model using machine learning techniques, and deploying it with Gradio for a user-friendly interface.
@@ -18,11 +18,11 @@ The repository includes a demo notebook that showcases how to use the trained mo
 ## Installation
 Download or Clone the repository and navigate to the project directory. Clone this repository to your local machine using the following command:
 
-git clone - 
+git clone - https://github.com/AlbieCofie/predict_customer-churn.git
 
 Alternatively, you can visit:
 
-- 
+- https://huggingface.co/AlbieCofie/predict-customer-churn
 
 
 ## Install the dependencies
