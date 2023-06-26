@@ -1,10 +1,10 @@
-# churn-prediction-with-gradio
+[![View Repositories](https://img.shields.io/badge/View-My_Repositories-blue?logo=GitHub)](https://github.com/AlbieCofie?tab=repositories)
+[![View My Profile](https://img.shields.io/badge/MEDIUM-Article-purple?logo=Medium)](https://medium.com/@albiecofie2000/a-guide-on-building-a-customer-churn-prediction-web-app-with-gradio-89c1e5a2ec01)
+[![Website](https://img.shields.io/badge/My-Website-darkgreen)](https://albiecofie2000.wixsite.com/home)
+
+## Customer Churn Prediction with Gradio
 This repository contains code and resources for building a churn prediction model using machine learning techniques, and deploying it with Gradio for a user-friendly interface. Gradio is used to create a web interface for the trained model, which allows users to input customer data and get predictions on their likelihood of churning. 
 
-## Summary
-| Code      | Name        | Published Article |  Deployed App |
-|-----------|-------------|:-------------:|------:|
-| LP4 | Churn Prediction with Gradio |  [https://medium.com/@albiecofie2000/a-guide-on-building-a-customer-churn-prediction-web-app-with-gradio-89c1e5a2ec01](/) | [https://huggingface.co/AlbieCofie/predict-customer-churn](/) |
 
 ## Project Description
 Churn prediction is a critical task for businesses that want to retain their customers and optimize revenue. This repository contains code and resources for building a churn prediction model using machine learning techniques, and deploying it with Gradio for a user-friendly interface.
@@ -32,8 +32,6 @@ Navigate to the cloned repository and run the command:
 pip install -r requirements.txt
 
 ## App Execution
-
-
 
 ![Alt text](images/1.png)
 
@@ -71,7 +69,10 @@ Lastly submit the values and click on the predict button to the prediction.
 ![Alt text](images/8.png)
 
 
+## 👏 Support
+
+If you found this article helpful, please give it a clap or a star on GitHub!
 
 ## Author
-Alberta Cofie
-Data Analyst
+
+- [Alberta Cofie](https://www.linkedin.com/in/alberta-cofie-32203881/)
